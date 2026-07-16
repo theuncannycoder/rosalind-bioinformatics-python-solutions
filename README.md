@@ -4,7 +4,7 @@ It is part of my journey to strengthen my fundamentals in bioinformatics, comput
 
 ---
 
-📌 About Rosalind
+📌 About Rosalind-
 
 [Rosalind](http://rosalind.info/) is a platform designed to help beginners learn bioinformatics through problem-solving.
 It covers concepts like:
